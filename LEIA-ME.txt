@@ -1,0 +1,7 @@
+GN3D STUDIO — SITE COMPLETO
+
+Abra index.html no navegador para visualizar.
+Para publicar: envie o conteúdo desta pasta a um serviço de hospedagem de sites estáticos, como Netlify Drop ou GitHub Pages.
+
+Antes de publicar: confirme as licenças comerciais dos modelos de terceiros, revise o catálogo e substitua imagens de referência por fotos de produtos efetivamente produzidos sempre que possível.
+O contato está configurado para Instagram @GN3dStudio.
